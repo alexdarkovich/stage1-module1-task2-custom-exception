@@ -6,4 +6,5 @@ public class StudentNotFoundExemption extends IllegalArgumentException {
         super(message);
     }
 
+
 }
